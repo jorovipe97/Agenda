@@ -1,0 +1,6 @@
+c:\users\estudiantes\documents\visual studio 2012\Projects\LaAgenda_JoseVillalobos\LaAgenda_JoseVillalobos\bin\Debug\LaAgenda_JoseVillalobos.exe.config
+c:\users\estudiantes\documents\visual studio 2012\Projects\LaAgenda_JoseVillalobos\LaAgenda_JoseVillalobos\obj\Debug\LaAgenda_JoseVillalobos.csprojResolveAssemblyReference.cache
+c:\users\estudiantes\documents\visual studio 2012\Projects\LaAgenda_JoseVillalobos\LaAgenda_JoseVillalobos\bin\Debug\LaAgenda_JoseVillalobos.exe
+c:\users\estudiantes\documents\visual studio 2012\Projects\LaAgenda_JoseVillalobos\LaAgenda_JoseVillalobos\bin\Debug\LaAgenda_JoseVillalobos.pdb
+c:\users\estudiantes\documents\visual studio 2012\Projects\LaAgenda_JoseVillalobos\LaAgenda_JoseVillalobos\obj\Debug\LaAgenda_JoseVillalobos.exe
+c:\users\estudiantes\documents\visual studio 2012\Projects\LaAgenda_JoseVillalobos\LaAgenda_JoseVillalobos\obj\Debug\LaAgenda_JoseVillalobos.pdb
